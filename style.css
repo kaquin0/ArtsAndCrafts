@@ -3,10 +3,10 @@ h1, h2, h3, p {
 }
 
 h1 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/HD-background-image.jpg");
   text-align: center;
   font-size: 100px;
-  color: Tan;
+  color: Red;
 }
 
 .item h2 {
